@@ -9,9 +9,7 @@ $ mhr init uu-z/template-cli mycli
 ## Usage
 
 ```bash
-$ yarn install
-
-$ yarn run dev
+$ yarn install; yarn dev
 
 $ mycli
 ```
